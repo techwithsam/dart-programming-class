@@ -19,11 +19,13 @@
 //
 
 main() {
+  var nam = 'Samuel';
+  print(nam);
   int number1 = 25;
   int number2 = 300;
   bool condit = true;
   if (number2 == 1 || number1 != 25) {
-    print('true decision');  
+    print('true decision');
   } else if (condit != true) {
     print('Not true');
   } else {}
