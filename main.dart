@@ -1,3 +1,9 @@
+// O'Bounce Technologies
+// Mobile App Development
+// Apr 26th, 2020.
+// Tutor: Samuel Adekunle
+
+
 main() {
   String name = "Samuel Adekule";
   int age = 18;
