@@ -1,5 +1,10 @@
 main() {
-  // break with \n
+  // DATA TYPE - STRING
+  // SINGLE QOUTATION - 'YOUR TEXT HERE'
+  // DOUBLE QOUTATION - "YOUR TEXT HERE"
+  // MUTIPLE QOUTATION = '''YOUR TEXT HERE'''
+
+  // To break line in a text use \n
   String num1 = 'that\'s testing \n\ntesting';
   String num2 = "testing1 that\"s testing1";
   String num3 = '''The boys
@@ -21,6 +26,7 @@ main() {
   int no = 12345;
   double two = 12345.44;
   print(no);
-  // print(num2);
-  // print(num3);
+  print(two);
+  print(num2);
+  print(num3);
 }

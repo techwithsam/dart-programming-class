@@ -2,8 +2,6 @@
 
 main() {
   int num = 9;
-  bool top = true;
-  String prof = 'Developer';
   if (num > 10 && num != true) {
     print('1 = Number is greater than 10. Num is $num');
   } else if (num == 11) {
