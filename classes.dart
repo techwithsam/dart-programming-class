@@ -9,7 +9,7 @@ import 'students.dart';
 
 main() {
   Teacher tech = Teacher();
-  tech.hostel;
+  tech.course;
   School sch = School();
   print(sch);
   print(sch.students);
