@@ -18,6 +18,9 @@ main() {
   int x = 12;
   int y = 0;
   int result;
+  // ignore: unused_local_variable
+  int hjhhj;
+
 
   // 'on' exception example
   try {
