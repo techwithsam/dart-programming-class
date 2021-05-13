@@ -39,9 +39,9 @@ main() {
   queue.add(09);
   queue.addAll([4934, 349384, 34343]);
   print(queue);
-  queue.forEach((value) => print('Values: '));
+  queue.forEach((value) => print('Values: $value'));
 
-  for (var no in queue) {
-    print(no);
-  }
+  // for (var no in queue) {
+  //   print(no);
+  // }
 }
