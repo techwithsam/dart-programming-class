@@ -11,5 +11,5 @@ main() {
   print(Status.values);
   Status.values.forEach((v) => print('Value: $v, index: ${v.index}'));
   print('running: ${Status.running}, index: ${Status.running.index}');
-  print('running index: ${Status.values[1]}');
+  print('running index: ${Status.values[1]}'); 
 }
